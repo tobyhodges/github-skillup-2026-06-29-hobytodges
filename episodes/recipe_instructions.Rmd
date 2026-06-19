@@ -17,6 +17,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+Don't forget to check out [the new section in the recipe introduction](recipe_intro.md#a-new-section).
 
 ## The Night Before
 
